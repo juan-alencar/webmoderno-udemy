@@ -13,4 +13,4 @@ console.log("javascript".split(""))         //  = ['j', 'a', 'v', 'a', 's', 'c',
 console.log("javascript".substring(4, 6))   //  = "sc"
 console.log("JAVASCRIPT".toLowerCase())     //  = "javascript"
 console.log("javascript".toUpperCase())     //  = "JAVASCRIPT"
-console.log("   javascript".trim())            //  = "javascript"
+console.log("   javascript".trim())         //  = "javascript"

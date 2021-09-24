@@ -1,7 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "s3_iniciando_programacao"
+		},
+		{
+			"path": "s4_javascript_fundamentos"
+		},
+		{
+			"path": "utilidades"
 		}
 	],
 	"settings": {}
