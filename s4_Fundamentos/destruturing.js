@@ -18,8 +18,8 @@ console.log(n, i)
 const { sobrenome, bemHumorada = true } = pessoa
 console.log(sobrenome, bemHumorada)
 
-const { endereco:{ logradouro, numero, cep } } = pessoa
-console.log(logradouro, numero, cep)
+const { endereco } = pessoa
+console.log(endereco.logradouro, endereco.numero, cep = null)
 
 // const { conta:{ num, ag} } = pessoa
 // console.log(num, ag) // Erro
